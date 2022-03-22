@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juanes3105
-- 👀 I’m interested in ... Javascript,Node.js,Discord.js
-- 🌱 I’m currently learning ... css
+- 👀 I’m interested in ... Software and app developing
+- 🌱 I’m currently learning ... Css
 - 💞️ I’m looking to collaborate on ... Nothing right now
 - 📫 How to reach me ... My email: dgherna3777@gmail.com
 
